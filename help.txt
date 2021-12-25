@@ -1,0 +1,14 @@
+================================ Field Painter ================================
+Field Painter is a game where the goal is to paint more area than the computer. Every turn, each gets to move to one adjacent block and paint the block you just were on. Be careful, as you can't move onto a block where there already is paint!
+
+                       ╔═══════════════════════════════╗
+                       ║ Character explanations:       ║
+                       ╠═══╦═══════════════════════════╣
+                       ║ O ║ You                       ║
+                       ╠═══╬═══════════════════════════╣
+                       ║ ▓ ║ Your paint                ║
+                       ╠═══╬═══════════════════════════╣
+                       ║ Ø ║ The computer              ║
+                       ╠═══╬═══════════════════════════╣
+                       ║ ▒ ║ The computer's paint      ║
+                       ╚═══╩═══════════════════════════╝
